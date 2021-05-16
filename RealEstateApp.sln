@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealEstateApp.Mobile.iOS", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealEstateApp.Mobile", "RealEstateApp.Mobile\RealEstateApp.Mobile\RealEstateApp.Mobile.csproj", "{E18C17A3-8FAF-46EF-9383-803813C77378}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "RealEstateApp.Database", "RealEstateApp.Database\RealEstateApp.Database.sqlproj", "{DE23B3BB-0081-4BBC-8051-A0B406EA3A8F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,24 @@ Global
 		{E18C17A3-8FAF-46EF-9383-803813C77378}.Release|iPhone.Build.0 = Release|Any CPU
 		{E18C17A3-8FAF-46EF-9383-803813C77378}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
 		{E18C17A3-8FAF-46EF-9383-803813C77378}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{DE23B3BB-0081-4BBC-8051-A0B406EA3A8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE23B3BB-0081-4BBC-8051-A0B406EA3A8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE23B3BB-0081-4BBC-8051-A0B406EA3A8F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DE23B3BB-0081-4BBC-8051-A0B406EA3A8F}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{DE23B3BB-0081-4BBC-8051-A0B406EA3A8F}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{DE23B3BB-0081-4BBC-8051-A0B406EA3A8F}.Debug|iPhone.Deploy.0 = Debug|Any CPU
+		{DE23B3BB-0081-4BBC-8051-A0B406EA3A8F}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{DE23B3BB-0081-4BBC-8051-A0B406EA3A8F}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{DE23B3BB-0081-4BBC-8051-A0B406EA3A8F}.Debug|iPhoneSimulator.Deploy.0 = Debug|Any CPU
+		{DE23B3BB-0081-4BBC-8051-A0B406EA3A8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE23B3BB-0081-4BBC-8051-A0B406EA3A8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE23B3BB-0081-4BBC-8051-A0B406EA3A8F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{DE23B3BB-0081-4BBC-8051-A0B406EA3A8F}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{DE23B3BB-0081-4BBC-8051-A0B406EA3A8F}.Release|iPhone.Build.0 = Release|Any CPU
+		{DE23B3BB-0081-4BBC-8051-A0B406EA3A8F}.Release|iPhone.Deploy.0 = Release|Any CPU
+		{DE23B3BB-0081-4BBC-8051-A0B406EA3A8F}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{DE23B3BB-0081-4BBC-8051-A0B406EA3A8F}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{DE23B3BB-0081-4BBC-8051-A0B406EA3A8F}.Release|iPhoneSimulator.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

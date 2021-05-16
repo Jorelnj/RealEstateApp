@@ -102,6 +102,7 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Controllers\" />
+    <Folder Include="Entities\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <PropertyGroup>
