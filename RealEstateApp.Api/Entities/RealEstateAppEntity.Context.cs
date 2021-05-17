@@ -26,6 +26,6 @@ namespace RealEstateApp.Api.Entities
         }
     
         public virtual DbSet<Biens> Biens { get; set; }
-        public virtual DbSet<Proprietaire> Proprietaire { get; set; }
+        public virtual DbSet<Proprietaire> Proprietaires { get; set; }
     }
 }
